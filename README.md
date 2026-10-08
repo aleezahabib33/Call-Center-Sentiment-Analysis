@@ -271,9 +271,7 @@ The **Chatbot** channel recorded an average CSAT of approximately **4.82**, comp
 
 ## 🖼️ Dashboard Preview
 
-![Call Center Dashboard](Dashboard/Call-Center-Dashboard.png)
-
----
+![Call Center Dashboard](Dashboard.png)
 
 ---
 
