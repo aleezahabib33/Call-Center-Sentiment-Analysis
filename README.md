@@ -235,13 +235,9 @@ The analysis provides several useful observations from the dataset.
 
 A total of 44 out of 70 calls (62.9%) were classified as Negative or Very Negative.
 
-**Recommendation:** Investigate recurring complaints and common customer pain points. Review call reasons and customer feedback to identify potential causes of dissatisfaction.
-
 ### 2. Billing Questions are the largest call category
 
 Billing Questions account for the largest call category in the analyzed dataset.
-
-**Recommendation:** Review billing FAQs, agent scripts, and self-service guidance. Clearer explanations may help customers resolve common billing questions more efficiently.
 
 ### 3. SLA performance requires continued monitoring
 
@@ -253,19 +249,14 @@ A total of 53 calls (75.71%) were within SLA, while 17 calls (24.29%) were outsi
 
 Call-Center recorded an average CSAT of 5.70, while Chatbot recorded an average CSAT of 4.82.
 
-**Recommendation:** Review chatbot interactions to identify confusing responses, gaps in self-service guidance, and issues that require escalation to human support.
-
 ### 5. Call duration varies by issue
 
 Service Outage calls had an average duration of approximately 31.6 minutes in the analysis.
-
-**Recommendation:** Investigate long-duration service outage calls to understand whether resolution complexity, troubleshooting steps, or escalation processes contribute to longer handling times.
 
 ### 6. Call volume varies by state
 
 The geographic analysis shows differences in call volume across the states represented in the dataset.
 
-**Recommendation:** Review regional call demand alongside staffing and service requirements to support more informed resource planning.
 
 These findings describe patterns in the analyzed dataset. Further investigation would be required to establish the underlying causes of customer dissatisfaction, SLA outcomes, and differences in call duration.
 
@@ -405,6 +396,12 @@ The repository includes screenshots of the final dashboard and selected analytic
 Add the screenshot of the completed interactive dashboard below.
 
 ![Call Center Sentiment and Customer Satisfaction Dashboard](dashboard.png)
+
+### Analysis
+![Call Center Sentiment and Customer Satisfaction Dashboard](analysis.png)
+
+### Visualization
+![Call Center Sentiment and Customer Satisfaction Dashboard](visualization.png)
 
 ## Skills Demonstrated
 
