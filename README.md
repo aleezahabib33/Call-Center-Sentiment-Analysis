@@ -395,7 +395,7 @@ The repository includes screenshots of the final dashboard and selected analytic
 
 Add the screenshot of the completed interactive dashboard below.
 
-![Call Center Sentiment and Customer Satisfaction Dashboard](dashboard.png)
+![Call Center Sentiment and Customer Satisfaction Dashboard](Dashboard.png)
 
 ## Skills Demonstrated
 
