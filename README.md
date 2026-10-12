@@ -398,10 +398,10 @@ Add the screenshot of the completed interactive dashboard below.
 ![Call Center Sentiment and Customer Satisfaction Dashboard](dashboard.png)
 
 ### Analysis
-![Call Center Sentiment and Customer Satisfaction Dashboard](analysis.png)
+![Call Center Sentiment and Customer Satisfaction Analysis](analysis.png)
 
 ### Visualization
-![Call Center Sentiment and Customer Satisfaction Dashboard](visualization.png)
+![Call Center Sentiment and Customer Satisfaction Visualization](visualization.png)
 
 ## Skills Demonstrated
 
